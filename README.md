@@ -1,1 +1,2 @@
-# nidhika-chat-apppp
+# Nidhika Chat App
+A Flutter-based chat application with Firebase and WebRTC.
